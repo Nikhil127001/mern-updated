@@ -1,0 +1,51 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+body {
+    margin-bottom: 170px;
+}
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 170px;
+}
+
+.Crousel_Discription{
+  color:black;
+  font-family: 'Satisfy', cursive;
+}
+.Carousel{
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+.fields{
+  margin-left: 0px;
+}
+.Image_Logo{
+  width: 150px;
+  height: 110px;
+  margin-left: 15px;
+}
+#Footer{
+  padding-top: 50px;
+}
+.icons{
+  margin-right: 20px;
+}
+.Heading{
+  color: #f3a282;
+  font-weight: bold;
+}
+.icon_color{
+  color: red;
+}
+#dropdown-basic-button{
+  background-color: #f3a282;
+  color: black;
+}
+#Pagination{
+  background-color: #f3a282;
+  color: black;
+}
